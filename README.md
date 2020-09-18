@@ -14,7 +14,7 @@ c</s></s>command
 4.  pip2 install mechanize 
 5.  pip2 install requests 
 6.  git clone https://github.com/rahmani1122/emil_hack12
-7.  cd Email_hack 
+7.  cd emil_hack12 
 8.  python2 sharukh_rahmani.py
 
 @rahmani_king  سوال
